@@ -5921,7 +5921,7 @@ dependencies = [
 [[package]]
 name = "tfchain-client"
 version = "0.2.0"
-source = "git+https://github.com/threefoldtech/tfchain.git?branch=development#0f66e0c303ffc7b102f5d3f975459f7020cb76a0"
+source = "git+https://github.com/threefoldtech/ledger_chain.git?branch=development#0f66e0c303ffc7b102f5d3f975459f7020cb76a0"
 dependencies = [
  "frame-metadata",
  "frame-support",

@@ -63,7 +63,7 @@ hyper-tungstenite = "0.14"
 lazy_static = "1.4.0"
 prometheus = { version = "0.13", features = ["process"] }
 
-tfchain-client = { git = "https://github.com/threefoldtech/tfchain.git", version = "0.2.0", branch = "development" }
+tfchain-client = { git = "https://github.com/threefoldtech/ledger_chain.git", version = "0.2.0", branch = "development" }
 reqwest = "0.12"
 bytes = "1"
 
